@@ -1,16 +1,8 @@
-# scorecheck
+Scorecheck
+An application written using Flutter/Dart that checks football league matches through an API. Each match also has statistics that can be viewed. It is also possible to sort matches and check favorites.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/donMakrel/scorecheck/assets/73997770/7494a685-f39d-4511-a267-de5e43f054da)
+![2](https://github.com/donMakrel/scorecheck/assets/73997770/470ecfe3-f5b9-461b-bb27-ca2e0b4632d1)
+![3](https://github.com/donMakrel/scorecheck/assets/73997770/88a4289c-4bda-42b6-baf4-204704ef7ad9)
