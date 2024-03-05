@@ -48,7 +48,7 @@ class _ProductListPageState extends State<ProductListPage> {
       Uri.parse(
           'https://api-football-v1.p.rapidapi.com/v3/fixtures?league=39&season=2021&team=$teamId&from=2021-12-01&to=2021-12-16'),
       headers: {
-        'x-rapidapi-key': '82796156b2mshc03ecd095d6d1c0p13c26fjsnc974c2cea9bd',
+        'x-rapidapi-key': 'API-KEY-HERE',
         'x-rapidapi-host': 'api-football-v1.p.rapidapi.com'
       },
     );
